@@ -1,0 +1,70 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mapTest.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 5,
+            "scaleInEditor": 1
+        },
+        "map1.tmx": {
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 258.25,
+                "y": 224
+            }
+        },
+        "map1.tmx#tiles": {
+            "scaleInDock": 6
+        },
+        "mapTest.tmx": {
+            "expandedObjectLayers": [
+                8,
+                6,
+                5,
+                10,
+                4
+            ],
+            "scale": 11,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 346.31818181818187,
+                "y": 251.1818181818182
+            }
+        },
+        "mapTest.tmx#tiles": {
+            "scaleInDock": 6
+        }
+    },
+    "last.exportedFilePath": "/home/elliott/Documents/lua/dungeonCrawler/maps",
+    "last.imagePath": "/home/elliott/Documents/lua/dungeonCrawler/images",
+    "map.height": 60,
+    "map.lastUsedExportFilter": "Tous les Fichiers (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 60,
+    "openFiles": [
+        "mapTest.tmx",
+        "map1.tmx"
+    ],
+    "project": "maps.tiled-project",
+    "recentFiles": [
+        "map1.tmx",
+        "mapTest.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.margin": 0,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
