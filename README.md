@@ -17,7 +17,6 @@ Développer ce petit jeu m'a permis de progresser en Lua et en Löve2D, dans le 
 - [x] Ceci est déjà fait
 
 ![demo1_video.gif](screenshots/demo1_video.gif)
-![demo1_video.webm](screenshots/demo1_video.webm)
 
 ## Objectifs bonus ?
 
