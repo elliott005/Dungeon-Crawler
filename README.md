@@ -1,4 +1,4 @@
-# *Dungeon Crawler* ~ *by Elliot*
+# *Dungeon Crawler* ~ *by Elliott*
 
 Demo du jeu :
 
